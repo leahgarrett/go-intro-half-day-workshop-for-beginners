@@ -56,7 +56,7 @@ Easier to read and understand when using a function
 	y = calculateTemperature(x)
 ```
 
-Putting it together:ß
+Putting it together:
 ```go
 package main
 
@@ -103,6 +103,9 @@ Can you add another function? You can call functions from inside other functions
 
 ## Triangles revisited
 Update you code for the Trangles exercise. Create two functions, one for ascending triangles and one for descending triangles.
+
+Are there any other patterns you can make?
+Think about using spaces, try using `%`
 
 <br />
 
