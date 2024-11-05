@@ -169,5 +169,5 @@ Use `if` statements to check the value and display message for 'too high' and 't
 <br />  
 
 
-[Next: 05_slices](05_slices.md)
+[Next: 05_functions_and_review_exercises](05_functions_and_review_exercises.md)
 

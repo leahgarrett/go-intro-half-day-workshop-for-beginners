@@ -11,9 +11,7 @@
 
 [04 Loops](./04_loops.md)
 
-[05 Slices](./05_functions_and_review_exercises.md)
-
-[06 json](./06_json.md)
+[05 Functions and review](./05_functions_and_review_exercises)
 
 [end notes](./099_end_notes.md)
  
