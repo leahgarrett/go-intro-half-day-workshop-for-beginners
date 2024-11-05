@@ -104,6 +104,11 @@ Can you add another function? You can call functions from inside other functions
 ## Triangles revisited
 Update you code for the Trangles exercise. Create two functions, one for ascending triangles and one for descending triangles.
 
+<br />
+
+<hr />
+
+<br />  
 
 
 [Next: 099_end_notes](099_end_notes.md)
