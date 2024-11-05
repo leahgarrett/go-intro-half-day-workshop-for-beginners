@@ -75,7 +75,7 @@ You can click open the repl I am working to open it locally. You can copy code o
 <br />  
 
 
-[Next: 02_hello_world](/live/02_hello_world.md)
+[Next: 02_hello_world](02_hello_world.md)
 
 
 

@@ -178,5 +178,5 @@ The output should look like
 <br />  
 
 
-[Next: 03_strings_and_user_input](/live/03_strings_and_user_input.md)
+[Next: 03_strings_and_user_input](03_strings_and_user_input.md)
 

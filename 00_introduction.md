@@ -58,5 +58,5 @@ https://github.com/leahgarrett/go-intro-workshop
 <br />  
 
 
-[Next: 01_intro_to_repl.it](/live/01_intro_to_repl.it.md)
+[Next: 01_intro_to_repl.it](01_intro_to_repl.it.md)
 
